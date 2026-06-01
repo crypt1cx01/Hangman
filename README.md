@@ -1,2 +1,2 @@
-# Hangman
-Hangman Project
+# Python Games Development
+Python Games Development
